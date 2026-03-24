@@ -50,7 +50,7 @@ Interactive web mapping of mortality rates across Ireland's 166 Local Electoral 
 
 ## Module
 
-GY638: Geographic Information in Practice
+GY638: Geographical Information Systems in Practice
 
 ## License
 
