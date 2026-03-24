@@ -455,7 +455,7 @@ shinyApp(ui = ui, server = server)
 
 
 # =============================================================================
-# EXERCISES FOR SUBMISSION
+# ADDITIONL EXERCISES
 # =============================================================================
 #
 # After completing this practical, answer the following questions:
